@@ -1,4 +1,4 @@
-# semantic-html-cheatsheet
+# HTML Semantic Cheatsheet
 ## Semantic HTML cheatsheet.
 
 ### Semantic HTML cheat sheet
